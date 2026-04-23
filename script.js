@@ -1,0 +1,1 @@
+let n=alert(prompt("Dime un numero"));
