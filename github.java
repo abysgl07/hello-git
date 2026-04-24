@@ -5,7 +5,7 @@ public class github{
       if(carita){
         System.out.println("FELIZZZZZ"); 
       }else{
-        System.out.println("TISTE MUITO TISTE");
+        System.out.println("TISTE mi pechocha");
       }
       
     }
